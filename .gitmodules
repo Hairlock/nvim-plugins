@@ -1,0 +1,18 @@
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "haskell-vim"]
+	path = haskell-vim
+	url = https://github.com/neovimhaskell/haskell-vim.git
+[submodule "neomake"]
+	path = neomake
+	url = https://github.com/neomake/neomake
+[submodule "vim-hindent"]
+	path = vim-hindent
+	url = https://github.com/alx741/vim-hindent
+[submodule "vim-stylishask"]
+	path = vim-stylishask
+	url = https://github.com/alx741/vim-stylishask
